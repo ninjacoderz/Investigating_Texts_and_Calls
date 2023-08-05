@@ -1,0 +1,70 @@
+Runtime Analysis
+Task0
+    Python Operations Used
+        Index operation, e.g l[i]
+            Complexity: O(1)
+    
+    Complexity
+        Time Complexity: O(1)
+        Space Complexity: O(1)
+
+
+
+Task1
+
+     Python Operations Used
+        Iteration, e.g for v in l:
+            Complexity: O(n)
+        Index operation, e.g l[i]
+            Complexity: O(1)
+        Append operation, e.g list
+            Complexity: O(1)
+        
+        Complexity
+            Time Complexity: O(n)
+            Space Complexity: O(n)
+
+Task2
+    Python Operations Used
+        Iteration, e.g for v in l:
+            Complexity: O(n)
+        Index operation, e.g l[i]
+            Complexity: O(1)
+        Append operation, e.g list
+            Complexity: O(1)
+        
+        Complexity
+            Time Complexity: O(n)
+            Space Complexity: O(n)
+
+
+Task3
+    Python Operations Used
+        Iteration, e.g for v in l:
+            Complexity: O(n)
+        Index operation, e.g l[i]
+            Complexity: O(1)
+        Append operation, e.g list
+            Complexity: O(1)
+        Sorted
+            Complexity: O(n)
+        Complexity
+            Time Complexity: O(n^2)
+            Space Complexity: O(n)
+
+
+
+
+Task4
+    Python Operations Used
+        Iteration, e.g for v in l:
+            Complexity: O(n)
+        Index operation, e.g l[i]
+            Complexity: O(1)
+        Append operation, e.g list
+            Complexity: O(1)
+        Sorted
+            Complexity: O(n)
+        Complexity
+            Time Complexity: O(n^2)
+            Space Complexity: O(n)
